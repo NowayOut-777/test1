@@ -1,0 +1,29 @@
+﻿{
+    "question_set_id":  "qset_83db5699f7",
+    "candidate_id":  "cand_0952016f56",
+    "resume_id":  "res_cc750a0be8",
+    "questions":  [
+                      {
+                          "type":  "STAR",
+                          "question":  "Backend Engineer ì­í ìì ê°ì¥ ìí©í¸ ììë íë¡ì í¸ë¥¼ STAR ë°©ìì¼ë¡ ì¤ëª\u0085í´ ì£¼ì¸ì.",
+                          "intent":  "ì±ê³¼/ê¸°ì¬ë ê²ì¦",
+                          "evidence":  "ï»¿Kim Minsu\nBackend Engineer\n- Built API services with FastAPI\n- Improved response latency by 30%\n- Led incident response",
+                          "difficulty":  "medium"
+                      },
+                      {
+                          "type":  "TECH",
+                          "question":  "Backend Engineer ì\u0085ë¬´ìì ì¥ì ë¥¼ í´ê²°íë ê²½íì êµ¬ì²´ì ì¼ë¡ ì¤ëª\u0085í´ ì£¼ì¸ì.",
+                          "intent":  "ë¬¸ì í´ê²° ì­ë ê²ì¦",
+                          "evidence":  "ï»¿Kim Minsu\nBackend Engineer\n- Built API services with FastAPI\n- Improved response latency by 30%\n- Led incident response",
+                          "difficulty":  "medium"
+                      },
+                      {
+                          "type":  "DOMAIN",
+                          "question":  "Backend Engineer ì§ë¬´ìì ê°ì¥ ì¤ìí ì§í 2ê°ì ê°ì  ë°©ë²ì ë§í´ ì£¼ì¸ì.",
+                          "intent":  "ì§ë¬´ ì ë¬¸ì± ê²ì¦",
+                          "evidence":  "ï»¿Kim Minsu\nBackend Engineer\n- Built API services with FastAPI\n- Improved response latency by 30%\n- Led incident response",
+                          "difficulty":  "easy"
+                      }
+                  ],
+    "created_at":  "2026-04-17T13:18:28.567452+00:00"
+}

@@ -1,0 +1,5 @@
+﻿Kim Minsu
+Backend Engineer
+- Built API services with FastAPI
+- Improved response latency by 30%
+- Led incident response and root-cause analysis

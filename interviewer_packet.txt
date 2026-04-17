@@ -1,0 +1,31 @@
+﻿Question Set ID: qset_83db5699f7
+Candidate ID: cand_0952016f56
+Resume ID: res_cc750a0be8
+
+[1] [STAR] Backend Engineer ì­í ìì ê°ì¥ ìí©í¸ ììë íë¡ì í¸ë¥¼ STAR ë°©ìì¼ë¡ ì¤ëªí´ ì£¼ì¸ì.
+ - intent: ì±ê³¼/ê¸°ì¬ë ê²ì¦
+ - difficulty: medium
+ - evidence: ï»¿Kim Minsu
+Backend Engineer
+- Built API services with FastAPI
+- Improved response latency by 30%
+- Led incident response
+
+[2] [TECH] Backend Engineer ìë¬´ìì ì¥ì ë¥¼ í´ê²°íë ê²½íì êµ¬ì²´ì ì¼ë¡ ì¤ëªí´ ì£¼ì¸ì.
+ - intent: ë¬¸ì í´ê²° ì­ë ê²ì¦
+ - difficulty: medium
+ - evidence: ï»¿Kim Minsu
+Backend Engineer
+- Built API services with FastAPI
+- Improved response latency by 30%
+- Led incident response
+
+[3] [DOMAIN] Backend Engineer ì§ë¬´ìì ê°ì¥ ì¤ìí ì§í 2ê°ì ê°ì  ë°©ë²ì ë§í´ ì£¼ì¸ì.
+ - intent: ì§ë¬´ ì ë¬¸ì± ê²ì¦
+ - difficulty: easy
+ - evidence: ï»¿Kim Minsu
+Backend Engineer
+- Built API services with FastAPI
+- Improved response latency by 30%
+- Led incident response
+
